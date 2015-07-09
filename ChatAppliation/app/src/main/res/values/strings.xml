@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatAppliation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendText">Send</string>
+    <string name="idHint">Enter Sender ID e.g 61</string>
+    <string name="errorText">PLease check paraameters</string>
+</resources>
