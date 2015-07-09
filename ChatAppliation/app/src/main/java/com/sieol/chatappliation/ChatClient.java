@@ -26,9 +26,9 @@ public class ChatClient {
     //Register your application and get yours following credentials from here = https://www.sinch.com/
 
 
-    private static final String APP_KEY = "0bbe49ce-19ff-410f-ab20-84cb8838156a";
-    private static final String APP_SECRET = "HEIP7iBDs0m8THKux0h1iQ==";
-    private static final String ENVIRONMENT = "sandbox.sinch.com";
+    private static final String APP_KEY = "";
+    private static final String APP_SECRET = "";
+    private static final String ENVIRONMENT = "";
 
     private SinchClient sinchClient;
     private MessageClient mMessageClient;
